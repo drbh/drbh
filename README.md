@@ -8,4 +8,4 @@
 
 I like Rust, distributed systems, cryptography, finance, art and nature.
 
-[![drbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbh&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![drbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbh&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
