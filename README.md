@@ -8,6 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=drbh&color=grey)
 
 **Mantra:** `Science > `  
-**Me:** I like Rust, distributed systems, cryptography, finance, art and nature.
+**Me:** I like Rust, math(s), machine learning, distributed systems, cryptography, finance, art and nature.
 
 [![drbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbh&show_icons=false&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
